@@ -37,6 +37,6 @@ STA in networking means Station, in IEEE 802.11 (Wi-Fi) terminology, a STA is a 
 
 # SSID
 
-範圍上是 （虛擬）ESS > （依照 AP 個數）BSS。是區分無線網路的網域範圍。
+範圍上是 （虛擬切割集合的）ESS > （依照 AP 數量而定的）BSS。是區分無線網路的網域範圍。
 
 
