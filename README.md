@@ -35,8 +35,12 @@ or like this
 STA in networking means Station, in IEEE 802.11 (Wi-Fi) terminology, a STA is a device that has the capability to use the 802.11 protocol. For example, a station may be a laptop, a desktop PC, PDA, access point or Wi-Fi phone. An STA may be fixed, mobile or portable.
 
 
-# SSID
+# SSID (服務集合)
 
-範圍上是 （虛擬切割集合的）ESS > （依照 AP 數量而定的）BSS。是區分無線網路的網域範圍。
+SSIS means Service Set Identifier.
+
+是區分無線網路的網域範圍。
+
+範圍： （虛擬切割集合的）ESS > （依照 AP 數量而定的）BSS。
 
 
