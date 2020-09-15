@@ -5,6 +5,8 @@ Wireless Lan Controller
 
 ![ap](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/ap-1.png)
 
+![ap if](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/ap-2.png)
+
 # Embedded in AP
 
 ![wlc](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/WLanC-1.png)
