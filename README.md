@@ -37,7 +37,7 @@ STA in networking means Station, in IEEE 802.11 (Wi-Fi) terminology, a STA is a 
 
 # SSID (服務集合)
 
-SSIS means Service Set Identifier.
+SSIS means Service Set Identifier 服務集合識別碼.
 
 是區分無線網路的網域範圍。
 
