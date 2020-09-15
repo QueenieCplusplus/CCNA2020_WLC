@@ -3,6 +3,13 @@ Wireless Lan Controller
 
 # Access Point
 
+like this
+
+
+
+
+or like this
+
 ![ap](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/ap-1.png)
 
 ![ap if](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/ap-2.png)
