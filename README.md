@@ -1,6 +1,10 @@
 # CCNA2020_WLC
 Wireless Lan Controller
 
+# Access Point
+
+![ap](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/ap-1.png)
+
 # Embedded in AP
 
 ![wlc](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/WLanC-1.png)
