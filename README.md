@@ -7,6 +7,8 @@ like this
 
 ![ap](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/ap-3.png)
 
+![ap des](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/ap-des.png)
+
 
 or like this
 
