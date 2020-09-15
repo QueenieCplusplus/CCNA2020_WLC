@@ -29,3 +29,7 @@ or like this
 ![roam](https://github.com/QueenieCplusplus/CCNA2020_WLC/blob/master/roam.png)
 
 在無線網路的世界中， roam 是非常常見的，即『漫遊』。
+
+# SSID
+
+
