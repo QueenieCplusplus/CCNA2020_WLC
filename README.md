@@ -30,6 +30,11 @@ or like this
 
 在無線網路的世界中， roam 是非常常見的，即『漫遊』。
 
+# STA (接收無線網路的任何設備)
+
+STA in networking means Station, in IEEE 802.11 (Wi-Fi) terminology, a STA is a device that has the capability to use the 802.11 protocol. For example, a station may be a laptop, a desktop PC, PDA, access point or Wi-Fi phone. An STA may be fixed, mobile or portable.
+
+
 # SSID
 
 
