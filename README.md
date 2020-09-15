@@ -5,7 +5,7 @@ Wireless Lan Controller
 
 like this
 
-
+![ap](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/ap-3.png)
 
 
 or like this
