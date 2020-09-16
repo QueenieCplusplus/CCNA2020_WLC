@@ -24,6 +24,10 @@ or like this
 
 ![wlanc](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/WLC-3.png)
 
+# 802.11 (a/b/g/n/ac/WiFi6)
+
+https://github.com/QueenieCplusplus/CCNA2020_WirelessLAN#ieee-80211-標準的發展
+
 # Roaming
 
 ![roam](https://github.com/QueenieCplusplus/CCNA2020_WLC/blob/master/roam.png)
