@@ -29,6 +29,7 @@ or like this
 ![roam](https://github.com/QueenieCplusplus/CCNA2020_WLC/blob/master/roam.png)
 
 在無線網路的世界中， roam 是非常常見的，即『漫遊』。
+是指不同電信以無縫接軌的方式，提供無線網路與終端使用者。
 
 # STA (接收無線網路的任何設備)
 
