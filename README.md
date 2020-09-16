@@ -24,9 +24,9 @@ or like this
 
 ![wlanc](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_WLC/master/WLC-3.png)
 
-# 802.11 (a/b/g/n/ac/WiFi6)
+# 802.11 (a/b/g/n/ac/ax)
 
-https://github.com/QueenieCplusplus/CCNA2020_WirelessLAN#ieee-80211-標準的發展
+https://github.com/QueenieCplusplus/CCNA2020_WirelessLAN#ieee-80211-標準的發展 (wi-fi5, wi-fi6)
 
 # Roaming
 
